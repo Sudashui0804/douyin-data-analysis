@@ -1,0 +1,14 @@
+# 原始/清洗后数据集（体积较大，不纳入版本控制）
+抖音(已清洗).csv
+抖音短视频数据集.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
